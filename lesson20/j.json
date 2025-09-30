@@ -1,0 +1,13 @@
+{
+    "name": "John Doe",
+    "age": "30",
+    "city":"Prishtina",
+    "address":{
+        "street":"main street",
+        "city": "Prishtina",
+        "postal code": "10000"
+    },
+    "hobies" : [ {"type" : "running"}, {"type" : "riding"}
+    ]
+
+}
